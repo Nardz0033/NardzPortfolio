@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "djKZ0Z4sBJM=",
+  "dgSpecHash": "ISL8hnil8qc=",
   "success": true,
-  "projectFilePath": "/root/portfolio/portfolio.csproj",
+  "projectFilePath": "/root/Nardz/NardzPortfolio/portfolio.csproj",
   "expectedPackageFiles": [
-    "/root/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.3/microsoft.aspnetcore.app.internal.assets.10.0.3.nupkg.sha512"
+    "/root/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.6/microsoft.aspnetcore.app.internal.assets.10.0.6.nupkg.sha512"
   ],
   "logs": []
 }
